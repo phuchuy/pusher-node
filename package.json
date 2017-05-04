@@ -41,6 +41,7 @@
   "license": "MIT",
   "repository": "git://github.com/pusher/pusher-rest-node",
   "main": "lib/pusher",
+  "start": "node example/test.js",
   "engines": {
     "node": ">= 0.8.0"
   }
